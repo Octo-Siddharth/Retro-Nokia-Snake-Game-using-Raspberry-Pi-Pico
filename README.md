@@ -7,7 +7,7 @@ Very much inspired from the childhood memories, when we used to play "The Snake 
 ## Circuitry and Coding Part
 - Follow the Schematic and connect the OLED Display and Push Button switches 
 - The OLED Display is an I2C based 128x64 pixels display, you can use any other monochrome OLED display of your choise.
-- After connecting all the components use the (/i2c.py) code to check whether the diaplay is connected properly or not. 
+- After connecting all the components use the `i2c.py` code to check whether the diaplay is connected properly or not. 
 
 
 ![Thumbnail](/Project_Img_1.jpg)
