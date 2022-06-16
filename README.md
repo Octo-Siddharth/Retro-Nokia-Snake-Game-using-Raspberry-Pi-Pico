@@ -2,6 +2,9 @@
 
 Retro Nokia Snake Game using Raspberry Pi Pico made with ❤ by Siddhartha Rakshit
 
+Very much inspired from the childhood memories, when we used to play "The Snake Game" in our good old nokia phones, I bet most of us scored a huge. So let's recall the some part of childhood with this project.
+
+
 
 ![Thumbnail](/Project_Img_1.jpg)
 
