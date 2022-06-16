@@ -10,7 +10,7 @@ Retro Nokia Snake Game using Raspberry Pi Pico made with ❤ by Siddhartha Raksh
 
 # Follow the schematic for the circuit diagram
 
-![Schematic](/Project_Schematic.jpg)
+![Schematic](/Project_Schematic.png)
 
 Checkout [my hackaday.io page](https://hackaday.io/project/179669-harifun-203-pico-snake) on this project.
 
