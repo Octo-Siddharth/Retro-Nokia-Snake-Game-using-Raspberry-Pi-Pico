@@ -1,9 +1,9 @@
 # Retro_Nokia_Snake_Game
 
-Slithering Snake by Hari Wiguna
+Retro Nokia Snake Game using Raspberry Pi Pico made with ❤ by Siddhartha Rakshit
 
-There is so much story behind this deceivingly simple result.
 
+![Thumbnail](/Project_Img_1.jpg)
 Checkout [my hackaday.io page](https://hackaday.io/project/179669-harifun-203-pico-snake) on this project.
 
 
