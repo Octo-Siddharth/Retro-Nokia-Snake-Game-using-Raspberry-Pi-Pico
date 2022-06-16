@@ -33,7 +33,7 @@ Very much inspired from the childhood memories, when we used to play "The Snake 
 <a href = "https://github.com/Octo-Siddharth"><img src="https://img.icons8.com/color/48/000000/github--v3.gif" width="59" height="59"/></a>
 <a href = "https://www.instagram.com/skyquake._/"><img src="https://img.icons8.com/color/48/000000/instagram.png" width="65" height="65"/></a>
 <a href = "https://www.hackster.io/siddhartha-rakshit"><img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/000000/external-hacker-web-security-flatart-icons-lineal-color-flatarticons.png" width="65" height="65"/></a>
-<a href = "https://discordapp.com/users/950072202693333092"><img src="<img src="https://img.icons8.com/cute-clipart/64/undefined/discord.png"/>" width="65" height="65"/></a>    
+<a href = "https://discordapp.com/users/950072202693333092"><img src="https://img.icons8.com/color/48/undefined/discord--v2.png"/> width="65" height="65"/></a>    
 
 </p>
 
