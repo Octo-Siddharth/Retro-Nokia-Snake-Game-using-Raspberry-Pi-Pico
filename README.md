@@ -4,6 +4,10 @@ Retro Nokia Snake Game using Raspberry Pi Pico made with ❤ by Siddhartha Raksh
 
 Very much inspired from the childhood memories, when we used to play "The Snake Game" in our good old nokia phones, I bet most of us scored a huge. So let's recall the some part of childhood with this project.
 
+## Circuitry and Coding Part
+- Follow the Schematic and connect the OLED Display and Push Button switches 
+- The OLED Display is an I2C based 128x64 pixels display, you can use any other monochrome OLED display of your choise.
+- After connecting all the components use the (/i2c.py) code to check whether the diaplay is connected properly or not. 
 
 
 ![Thumbnail](/Project_Img_1.jpg)
