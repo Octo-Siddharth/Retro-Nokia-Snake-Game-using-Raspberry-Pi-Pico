@@ -26,9 +26,9 @@ Very much inspired from the childhood memories, when we used to play "The Snake 
 
 ![Schematic](/Project_Schematic.png)
 
-![Stars](https://img.shields.io/github/stars/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
-![Forks](https://img.shields.io/github/forks/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
-![Language](https://img.shields.io/github/languages/top/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
+![Stars](https://img.shields.io/github/stars/Octo-Siddharth/Retro-Nokia-Snake-Game-using-Raspberry-Pi-Pico.svg?style=social)
+![Forks](https://img.shields.io/github/forks/Octo-Siddharth/Retro-Nokia-Snake-Game-using-Raspberry-Pi-Pico.svg?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/Octo-Siddharth/Retro-Nokia-Snake-Game-using-Raspberry-Pi-Pico.svg)
+![Language](https://img.shields.io/github/languages/top/Octo-Siddharth/Retro-Nokia-Snake-Game-using-Raspberry-Pi-Pico.svg)
 
 
