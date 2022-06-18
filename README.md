@@ -7,8 +7,8 @@ Very much inspired from the childhood memories, when we used to play "The Snake 
 ## Circuitry and Coding Part
 - Follow the Schematic and connect the OLED Display and Push Button switches 
 - The OLED Display is an I2C based 128x64 pixels display, you can use any other monochrome OLED display of your choise.
-- After connecting all the components use the `i2c.py` code to check whether the diaplay is connected properly or not. 
-- Check the display I2C address as well it should be 0X3C.
+- After connecting all the components use the `i2c.py` code to check whether the display is connected properly or not. 
+- Check the display I2C address as well, it should be 0X3C.
 - Now check the buttons that, they are giving pull-up values or not.
 - Connect the Raspberry Pi Pico with the computer configure Thonny IDE, choose proper Interpreter and COM port.
 - Insatll the SSD1306 OLED Library from the Manage Packages from tools in thonny ide or simply upload the `ssd1306.py` inside lib folder in Pi Pico.
